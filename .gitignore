@@ -1,0 +1,28 @@
+
+# Unity 
+/[Ll]ibrary/
+/[Tt]emp/
+/[Bb]uild/
+/_Output/
+/tmp/
+
+# Unity? MonoDevelop?
+*.booproj
+*.csproj
+*.pidb
+*.svd
+*.sln
+*.unityproj
+*.user
+*.userprefs
+*.suo
+
+# Mac
+*.DS_Store
+
+#Windows
+Thumbs.db
+
+# Libre Office
+.~lock.*
+
